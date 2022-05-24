@@ -1,1 +1,1 @@
-# I created custom hooks for fetch and window functions.
+# I created custom hooks for fetch and window functions for react.
